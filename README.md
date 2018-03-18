@@ -1,2 +1,2 @@
-# taro_pytho
+# taro_python
 
